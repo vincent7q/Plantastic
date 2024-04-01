@@ -7,9 +7,9 @@ Main Features:
 4. Gardens visiting 
 5. Monthly elections for plants and garden
 
-Components of this project:
+Hardware/Software of this project:
 ----------------------------------------------------------------------------------------
-Components(Hardware): Draft concept at this stage
+Hardware(components): Draft concept at this stage
 1. Intercepts:
 
 2. Base of stand:
@@ -39,9 +39,12 @@ Software:
   b) Streaming/growing moment storage
   c) Watering database/system
 
-2. Camera of plant auto capturing (raspberry)
+2. Raspberry:
+  a) Camera of plant auto capturing 
+  b) Watering system
 
-3. Mobile App (viewing plant status online and sharing to social media)
+3. Mobile App 
+  a) viewing plant status online and sharing to social media
 
 4. Website 
   a) viewing plant status online and sharing to social media
