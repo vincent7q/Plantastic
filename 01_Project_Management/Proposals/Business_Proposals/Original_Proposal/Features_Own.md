@@ -1,0 +1,55 @@
+Features/Details of 'Plastistic' 
+
+Main Features:
+1. Plant at home with creative and innovative way
+2. Automation of watering
+3. Capture and share 'Growing moment of plants'
+4. Gardens visiting 
+5. Monthly elections for plants and garden
+
+Hardware/Software of this project:
+----------------------------------------------------------------------------------------
+Hardware(components): Draft concept at this stage
+1. Intercepts:
+
+2. Base of stand:
+
+3. Cylinder:
+
+4. Joint:
+
+5. Vase stand:
+
+6. Top Cover:
+
+7. Vase:
+
+8. Steaming case:
+
+9. Camera rails
+
+10. Water pool:
+
+11. Camera:
+
+
+Software:
+1. Server:
+  a) Plants recognition (AI)
+  b) Streaming/growing moment storage
+  c) Watering database/system
+
+2. Raspberry:
+  a) Camera of plant auto capturing 
+  b) Watering system
+
+3. MobileApp 
+  a) viewing plant status online and sharing to social media
+
+4. Website 
+  a) viewing plant status online and sharing to social media
+  b) component marketplace
+  c) subscription of service
+  d) visiting garden of others (if owner is wiling to share)
+  e) Elections/Voting for plants and garden
+
